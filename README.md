@@ -98,9 +98,7 @@ Project created and run using:
 
 **Optimisation 3 Summary**![optimisation_3_summary_full](Resources/Images/optimisation_3_summary_full.png)
 
-#### Composite Accuracy & Loss Plots
-
-#### ![composite_plot](Resources/Images/nn_models_composite_plot_one.png)
+**Composite Accuracy & Loss Plots**![composite_plot](Resources/Images/nn_models_composite_plot_one.png)
 
 ## Code example
 
