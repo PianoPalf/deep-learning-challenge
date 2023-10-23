@@ -69,6 +69,12 @@ Created and submitted for an assignment for Monash University Data Analytics Boo
 
 - Compiles and plots all Accurary and Loss values from the above Neural Network Models.
 
+### nn_model_report.md
+
+- Describes purpose of the model.
+- Analyses the results and discusses model optimisations.
+- Summarises the analysis.
+
 ### Resources Folder
 
 - Contains: 
